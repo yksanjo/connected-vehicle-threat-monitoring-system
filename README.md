@@ -1,10 +1,10 @@
-# Connected Vehicle Threat Monitoring System
+# connected-vehicle-threat-monitoring-system
 
-Monitor vehicle telematics and detect cyber threats in fleets.
+## Detailed Description
 
 ## Vertical
 
-iot
+## Problem Statement
 
 ## Production MVP Deliverables
 
